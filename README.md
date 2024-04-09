@@ -1,2 +1,7 @@
 # NAANMUDHALVAN_BUS-RESERVATION-SYSTEM_SHEVITHA.D-513521104046_AMCET-
 NAAN-MUDHALVAN_BUS RESERVATION PROJECT
+project created by: Shevitha. D
+
+login details
+username: admin
+password: admin
